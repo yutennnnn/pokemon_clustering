@@ -1,0 +1,8 @@
+# Requirements for Pokemon clustering project
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+pillow
+jupyter
